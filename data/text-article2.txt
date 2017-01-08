@@ -1,0 +1,1 @@
+Once in admin mode, click a text to start editing it, click somewhere else when done (note that when editing titles, pressing enter will end edition too)

@@ -1,0 +1,1 @@
+You can also click a picture to edit it, this prompts you to select the new picture (be aware that default server settings might restrict file upload size to something like 2 Mb)
